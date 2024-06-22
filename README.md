@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Daler! 👋
 
-<!--
-**DarkSteelD/DarkSteelD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer focused on web technologies and open-source projects. Here's a snapshot of what I'm working on and my interests.
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=DarkSteelD&color=green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- JavaScript, Python, C++
+- HTML, CSS, PHP
+- Git, Docker, Kubernetes
+
+## 🌱 Currently Learning
+- Java & Spring
+- Machine Learning
+
+## 📈 GitHub Stats
+![Daler's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkSteelD&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSteelD&layout=compact&theme=radical)
+
+## 📫 Connect with Me
+- [Email](mailto:justjoke.exe@gmail.com)
+
