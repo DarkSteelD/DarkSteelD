@@ -5,13 +5,14 @@ I'm a software developer focused on web technologies and open-source projects. H
 ![Profile Views](https://komarev.com/ghpvc/?username=DarkSteelD&color=green)
 
 ## 🛠️ Technologies & Tools
-- JavaScript, Python, C++
-- HTML, CSS, PHP
+- Python, C++
+- HTML, CSS
 - Git, Docker, Kubernetes
 
 ## 🌱 Currently Learning
 - Java & Spring
 - Machine Learning
+- RecSys
 
 ## 📈 GitHub Stats
 ![Daler's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkSteelD&show_icons=true&theme=radical)
