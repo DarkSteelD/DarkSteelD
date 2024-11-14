@@ -6,11 +6,9 @@ I'm a software developer focused on web technologies and open-source projects. H
 
 ## 🛠️ Technologies & Tools
 - Python, C++
-- HTML, CSS
 - Git, Docker, Kubernetes
 
 ## 🌱 Currently Learning
-- Java & Spring
 - Machine Learning
 - RecSys
 
