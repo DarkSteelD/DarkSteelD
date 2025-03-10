@@ -6,11 +6,13 @@ I'm a software developer focused on web technologies and open-source projects. H
 
 ## 🛠️ Technologies & Tools
 - Python, C++
-- Git, Docker, Kubernetes
+- Git, Docker
+- Aiogram
+- FastAPI
 
 ## 🌱 Currently Learning
 - Machine Learning
-- RecSys
+- NLP
 
 ## 📈 GitHub Stats
 ![Daler's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkSteelD&show_icons=true&theme=radical)
