@@ -14,7 +14,6 @@ I'm a software developer focused on web technologies and open-source projects. H
 
 ## 🌱 Currently Learning
 - Machine Learning
-- NLP
 
 ## 📈 GitHub Stats
 ![Daler's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkSteelD&show_icons=true&theme=radical)
