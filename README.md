@@ -9,6 +9,8 @@ I'm a software developer focused on web technologies and open-source projects. H
 - Git, Docker
 - Aiogram
 - FastAPI
+- Machine Learning
+- NLP
 
 ## 🌱 Currently Learning
 - Machine Learning
